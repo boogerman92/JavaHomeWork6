@@ -1,6 +1,8 @@
 package ru.netology.stats.JavaHomeWork6.services;
 
 
+import java.util.Arrays;
+
 public class StatsService {
     public int salesAmount(long[] sales){
         int sum = 0;
